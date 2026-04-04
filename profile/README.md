@@ -41,13 +41,13 @@ Data-driven marketing strategies — including SEO, PPC campaigns, social media 
 Strategic brand identity design including logos, color palettes, typography, brand guidelines, and visual assets that make your business instantly recognizable and memorable across all touchpoints.
 
 ### 📱 Social Media Management
-Complete social media strategy and execution across Facebook, Instagram, LinkedIn, X, and more — keeping your brand active, relevant, and engaging with a growing community.
+Complete social media strategy and execution across Facebook, Instagram, LinkedIn, X (Twitter), and more — keeping your brand active, relevant, and engaging with a growing community.
 
 ### 🛒 E-Commerce Solutions
 End-to-end e-commerce development and optimization — from store setup and product management to payment integrations and conversion rate optimization — helping you sell more effectively in today's competitive online marketplace.
 
 ### 📊 Analytics & Reporting
-In-depth performance analysis, audience insights, and regular reporting to help you understand your audience and make smarter, data-backed decisions that continuously improve your digital strategy.
+In-depth performance analysis, audience insights, and regular reporting to help you understand what's working and make smarter, data-backed decisions that continuously improve your digital strategy.
 
 ### 📝 Content Creation
 High-quality content creation including copywriting, blog articles, social media posts, video scripts, and graphic design tailored to your brand voice and audience.
@@ -62,9 +62,9 @@ Comprehensive on-page and off-page SEO strategies to help your business rank hig
 - ✅ **Expert Guidance** — A team of seasoned digital professionals with years of industry experience across diverse sectors.
 - ✅ **Tailored Solutions** — Customized strategies built around your unique goals, industry, and target audience — no one-size-fits-all approach.
 - ✅ **Results-Driven** — We measure success through real, measurable outcomes: traffic, leads, conversions, and revenue growth for your business.
-- ✅ **End-to-End Support** — From strategy and design to launch and ongoing optimization, we're with you at every stage.
-- ✅ **Transparent Communication** — Clear timelines, open collaboration, and regular updates throughout every project.
-- ✅ **Affordable Pricing** — Professional-grade digital services accessible to businesses of all sizes, from startups to enterprises.
+- ✅ **End-to-End Support** — From strategy and design to launch and ongoing optimization, we're with you at every stage of your digital journey.
+- ✅ **Transparent Communication** — Clear timelines, open collaboration, and regular updates throughout every project so you're never left in the dark.
+- ✅ **Affordable Pricing** — Professional-grade digital services designed to be accessible to businesses of all sizes, from startups to enterprises.
 - ✅ **Local Expertise, Global Perspective** — Deep understanding of the Bangladeshi market combined with awareness of global digital trends.
 
 ---
@@ -98,9 +98,9 @@ Comprehensive on-page and off-page SEO strategies to help your business rank hig
 
 ---
 
-## 📍 Location
+## 📍 Location & Reach
 
-🇧🇩 Headquartered in **Bangladesh** — proudly serving clients locally and globally.
+🇧🇩 Headquartered in **Bangladesh** — proudly serving clients **locally and globally**.
 
 We understand the unique challenges of the Bangladeshi digital landscape while bringing world-class standards to every project we undertake.
 
