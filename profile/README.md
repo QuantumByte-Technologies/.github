@@ -42,7 +42,7 @@ QuantumByte Technologies is a software development firm based in Bangladesh, del
 
 | | Service | Description |
 |:---:|---|---|
-| `</> ` | **Web Development** | Responsive web apps, portals, and enterprise platforms |
+| `</>` | **Web Development** | Responsive web apps, portals, and enterprise platforms |
 | `📱` | **Mobile Apps** | Native & cross-platform iOS and Android applications |
 | `🖥️` | **Desktop Applications** | Windows, macOS, and Linux desktop software |
 | `⚙️` | **Custom Management Software** | ERP, CRM, inventory, and workflow systems |
